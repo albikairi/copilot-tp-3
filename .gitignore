@@ -31,3 +31,5 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+.idea
